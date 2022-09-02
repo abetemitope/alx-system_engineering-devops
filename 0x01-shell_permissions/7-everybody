@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod u+x hello
-chmod go=x hello
+chmod 755 hello
